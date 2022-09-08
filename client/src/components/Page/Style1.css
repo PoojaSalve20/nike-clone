@@ -1,0 +1,255 @@
+
+/* Top Navbar */
+
+.nikelogo{
+   
+	height: 40px;
+	width: 40px;
+   
+  }
+  .modal-login {
+  color: #636363;
+  width: 350px;
+  }
+  .modal-body{
+  margin-top: 50px;
+  }
+  .modal-title{
+  font-weight: 1000;
+  }
+  .modal-login .modal-content {
+  padding: 40px;
+  border-radius: 5px;
+  border: none;
+  }
+  .modal-login .modal-header {
+  border-bottom: none;
+  position: relative;
+  justify-content: center;
+  }
+  .modal-login h5 {
+  word-wrap: break-word;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+  }
+  .modal-login  .form-group {
+  
+  position: relative;
+  }
+  
+  .modal-login .form-control {
+  padding-left: 40px;
+  }
+  .modal-login .form-control:focus {
+  border-color: black;
+  }
+  .modal-login .form-control, .modal-login .btn {
+  min-height: 40px;
+  border-radius: 3px; 
+  }
+  .modal-login .hint-text {
+  text-align: center;
+  padding-top: 0px;
+  }
+  .modal-login .close {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  
+  }
+  .modal-login .btn, .modal-login .btn:active {	
+  border: none;
+  background: black !important;
+  line-height: normal;
+  }
+  .modal-login .btn:hover, .modal-login .btn:focus {
+  background: gray !important;
+  }
+  .modal-login .modal-footer {
+  
+  
+  text-align: center;
+  margin: 0 -20px -20px;
+  
+  font-size: 13px;
+  justify-content: center;
+  }
+  .modal-login .modal-footer a {
+  color: #999;
+  }
+  /*.trigger-btn {
+  display: inline-block;
+  margin: 100px auto;*/
+  
+  .Forget{
+  margin-left: 70px;
+  }
+  .Forget a{
+  color: gray;
+  text-decoration: none;
+  }
+  .Forget a:hover{
+  color: gray;
+  text-decoration: none;
+  
+  }
+  .text-align-center{
+  text-align: center;
+  }
+  .text-align-center  a{
+  color: gray;
+  text-decoration: underline;
+  }
+  p a:visited{
+  color: gray;
+  }
+  input[type=checkbox]{
+  
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 3px;
+  position: relative;
+  }
+  input[type=checkbox]:after{
+  background-color: black;
+  }
+  /* end Top Navbar */
+.topnav {
+    background-color:#ffffff;
+
+    overflow: hidden;
+      
+  }
+
+.logo {
+    height: 60px;
+    width: 60px;
+    overflow: hidden;
+    cursor: pointer;
+    margin-left:50px;
+  }
+  
+  .fa-user-o{
+  	margin-left: 85%;
+  	cursor: pointer;
+  }
+  .check{
+  	margin-left: 50px;
+  }
+.check1{
+	margin-left: 120px;
+	 	margin-right: 10px;
+}
+.square{
+	background-color: white;
+  width: 400px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 15px;
+ margin-right: 80px;
+}
+.button{
+	 cursor: pointer;
+	 background-color: white;
+	 color: black;
+	  margin-left: 20px;
+	  margin-top: 50px;
+}
+.button :hover{
+	background-color: #e5e5e5;
+}
+.Login{
+	width: 100px;
+}
+.heading{
+	margin-top: 20px;
+	 margin-left: 90px;
+}
+.img{
+	height: 208px;
+	width: 208px;
+	margin-left: 90px;
+}
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+.cnt{
+	margin-top: 30px;
+	width: 450px;
+	border-style: none;
+	margin-bottom: 50px;
+}
+
+.form-check-label{
+	font-size: 12px;
+}
+.imga{
+	height:400px;
+	width: 300px;
+}
+.imgb{
+	height:400px;
+	width: 300px;
+	padding-left: 30px;
+}
+.text{
+	padding-left: 25%;
+	font-size: 16px;
+	font-weight: 500;
+}
+.heading{
+    padding-right: 100px;
+	font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2;
+  
+}
+.sub{
+	padding-left: 25%;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 1.2;
+	color: #fa5400;
+	margin-top: 10px;
+}
+.sub1{
+	padding-left: 50%;
+	font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+	color: #000000;
+	padding-top: 32px;
+}
+.cnt1{
+	margin-top: 10px;
+	width: 200%;
+	border-style: none;
+	padding-left: 24px;
+	padding-right: 24px;
+	margin-left: 100px;
+
+}
+.btn-group{
+
+	padding-left: 60%;
+}
+.cnt2{
+	margin-top: 10px;
+	width: 65%;
+	border-style: none;
+	padding-left: 24px;
+	padding-right: 24px;
+	margin-left: 100px;
+
+}

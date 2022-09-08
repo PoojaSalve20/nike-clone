@@ -1,0 +1,125 @@
+.topnav{
+	height: 40px;
+}
+.topnavul li{
+	display: inline-block;
+	float: right;
+	padding: 5px;
+	
+	
+	 
+}
+.nikelogo{
+   
+    height: 40px;
+    width: 40px;
+   
+}
+.modal-login {
+	color: #636363;
+	
+}
+.modal-body{
+	margin-top: 50px;
+}
+.modal-title{
+	font-weight: 1000;
+}
+.modal-login .modal-content {
+	padding: 40px;
+	border-radius: 5px;
+	border: none;
+}
+.modal-login .modal-header {
+	border-bottom: none;
+	position: relative;
+	justify-content: center;
+}
+.modal-login h5 {
+	word-wrap: break-word;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.modal-login  .form-group {
+	
+	position: relative;
+}
+
+.modal-login .form-control {
+	padding-left: 40px;
+}
+.modal-login .form-control:focus {
+	border-color: black;
+}
+.modal-login .form-control, .modal-login .btn {
+	min-height: 40px;
+	border-radius: 3px; 
+}
+.modal-login .hint-text {
+	text-align: center;
+	padding-top: 0px;
+}
+.modal-login .close {
+	position: absolute;
+	top: -5px;
+	right: -5px;
+	
+}
+.modal-login .btn, .modal-login .btn:active {	
+	border: none;
+	background: black !important;
+	line-height: normal;
+}
+.modal-login .btn:hover, .modal-login .btn:focus {
+	background: gray !important;
+}
+.modal-login .modal-footer {
+	
+	
+	text-align: center;
+	margin: 0 -20px -20px;
+	
+	font-size: 13px;
+	justify-content: center;
+}
+.modal-login .modal-footer a {
+	color: #999;
+}
+/*.trigger-btn {
+	display: inline-block;
+	margin: 100px auto;*/
+
+.Forget{
+	margin-left: 70px;
+}
+ .Forget a{
+	color: gray;
+	text-decoration: none;
+}
+.Forget a:hover{
+	color: gray;
+	text-decoration: none;
+
+}
+.text-align-center{
+	text-align: center;
+}
+.text-align-center  a{
+	color: gray;
+	text-decoration: underline;
+}
+p a:visited{
+	color: gray;
+}
+input[type=checkbox]{
+	
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 3px;
+	position: relative;
+}
+input[type=checkbox]:after{
+	background-color: black;
+}

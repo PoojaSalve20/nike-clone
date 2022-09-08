@@ -1,0 +1,194 @@
+/* Mainnavbar */
+input[type=search]{
+    border-radius: 50px;
+    border: none;
+    background-color: #e5e5e5;
+  
+    
+    
+  }
+  .searchbutton{
+    
+    
+    background-color: #fcfafa;
+    border: none; 
+  }
+  .searchbutton:hove{
+   background-color: rgb(94, 93, 93);
+   cursor: pointer;
+  }
+  /* End Mainnavbar */
+  /* Catbar */
+  .brand{
+    margin-left: 7%;
+  }
+  @media screen and (max-width: 600px) {
+    .brand{
+    margin-left: 0%;
+  }}
+  .navposition{
+    position: -webkit-sticky;
+    
+  }
+  
+  .navcenter{
+    text-align: center;
+    margin-left:30%;
+  
+  }
+  @media screen and (max-width: 600px) {
+    .navcenter{
+      text-align: center;
+      margin-left: 0%;
+    }
+  }
+  /* End Catbar */
+  
+  /* topnav*/
+
+/* ---------------Home Page CSS -------------*/
+/* main section */
+.mainbanner{
+    text-align: center;   
+}
+.captionfont{
+    font-weight: 900;
+    
+}
+@media screen and (max-width:600px)  { 
+    .mainbanner{
+    
+            text-align: left;
+    }
+}
+@media screen and (max-width:412px)  { 
+    .mainbanner{
+    
+            text-align: left;
+    }
+}
+/* End main section */
+
+/* trending section */
+.bottom-right1 {
+    position: absolute;
+    bottom: 10px;
+    margin-left: 20px;
+    float: left;
+    color:white;
+    
+  }
+  .bottom-right2 {
+    position: absolute;
+    bottom: 10px;
+    margin-left: 20px;
+    float: left;
+    color:black;
+    
+  }
+  @media screen and (max-width:600px)  {
+      .trendingsection2{
+          margin-top: 20px;
+      }
+   }
+   @media screen and (max-width:412px)  {
+    .trendingsection2{
+        margin-top: 20px;
+    }
+ }
+  /* end trending section */
+
+  /* Dont Miss section */
+  .dontmiss-bottom-right{
+    position: absolute;
+    bottom: 10px;
+    margin-left: 20px;
+    float: left;
+    color:black;  
+  }
+  @media screen and (max-width:600px)  { 
+    .dontmiss-bottom-right{
+        position: relative;
+        float: left;
+        margin-top: 10px;
+        margin-left: 0px;
+        color:black;  
+    }
+  }
+  @media screen and (max-width:412px)  { 
+    .dontmiss-bottom-right{
+        position: relative;
+        float: left;
+        margin-top: 10px;
+        margin-left: 0px;
+        color:black;  
+    }
+  }
+/* End Dont Miss section */
+
+/* The Latest Section */
+.thelatestbanner{
+    text-align: center;   
+}
+@media screen and (max-width:600px)  { 
+    .thelatestbanner{
+    
+            text-align: left;
+           
+    }
+    .latestbutton{margin-left: 0px;}
+}
+@media screen and (max-width:412px)  { 
+    .thelatestbanner{
+    
+            text-align: left;
+           
+    }
+    .latestbutton{margin-left: 0px;}
+}
+/* End The Latest section */
+/* ---------------End Home Page CSS -------------*/
+
+/* ---------------Men Page CSS-------------- */
+
+/* Dont Miss section */
+.emotion-bottom-right{
+    position: absolute;
+    bottom: 70%;
+    margin-left: 20px;
+    float: left;
+    color:black;  
+  }
+  @media screen and (max-width:600px)  { 
+    .emotion-bottom-right{
+        position: relative;
+        float: left;
+        margin-top: 10px;
+        margin-left: 0px;
+        color:black;  
+    }
+  }
+  @media screen and (max-width:412px)  { 
+    .emotion-bottom-right{
+        position: relative;
+        float: left;
+        margin-top: 10px;
+        margin-left: 0px;
+        color:black;  
+    }
+  }
+
+/* ---------------End Men Page CSS-------------- */
+
+/* kids page css */
+
+/* the essential section */
+.kidsbottom-right1 {
+    position: absolute;
+    bottom: 10px;
+    margin-left: 20px;
+    float: left;
+    color:black;
+    
+  }
+  /* end essential section */
